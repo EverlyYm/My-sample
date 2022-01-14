@@ -1,1 +1,1 @@
-consloe.log('hello');
+console.log('hello');
